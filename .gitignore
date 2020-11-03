@@ -1,0 +1,3 @@
+app/__pycache__
+db.sqlite3
+app/settings.py
